@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 181931
-! Update Time(UTC+8): 2024-08-09 16:12:52
+! Total count: 181933
+! Update Time(UTC+8): 2024-08-10 00:11:24
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
@@ -32309,6 +32309,7 @@
 ||apsalar.com^
 ||apsatnlfylz.com^
 ||apse-cr.svr-algorix.com^
+||apsehick.date^
 ||apserver.net^
 ||apsidalmungoos.top^
 ||apsislead.com^
@@ -36813,7 +36814,6 @@
 ||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
-||beacon.apsehick.date^
 ||beacon.carfax.com^
 ||beacon.cdn.qq.com^
 ||beacon.cdnma.com^
@@ -39930,6 +39930,7 @@
 ||boptegre.com^
 ||bopvetgel.com^
 ||boqcfrsfdykjhb.com^
+||boqmjxtkwn.com^
 ||boqsxdpx.xyz^
 ||boqufs.2nn.jp^
 ||bordageaccable.top^
@@ -50953,6 +50954,7 @@
 ||crustwebsites.net^
 ||cruthdivisi.life^
 ||crutop.nu^
+||crutvncf.top^
 ||crux.songline.com^
 ||crvayw.kagunosato.com^
 ||crvbnac.xyz^
@@ -72031,6 +72033,7 @@
 ||freedom-garden.com^
 ||freedomadnetwork.com^
 ||freedomart.cz^
+||freedomgift50.com^
 ||freedominfo.net^
 ||freedomly.top^
 ||freedomofsoftware.com^
@@ -73469,7 +73472,6 @@
 ||gadgetblog.ru^
 ||gadgeteer.pdamart.com^
 ||gadgetgiveawayz.com^
-||gadgetinfinityz.com^
 ||gadgetnews.one^
 ||gadgetproof.net^
 ||gadgetreviewer.org^
@@ -91882,6 +91884,7 @@
 ||kev8ffh2n9a8.jp^
 ||kevinandhowlin.com^
 ||kevuci.ru^
+||kewal.shop^
 ||kewnemhpbmzkm.com^
 ||kexkex.net^
 ||kexojito.com^
@@ -114333,6 +114336,7 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi34.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -114341,9 +114345,7 @@
 ||navi4.com^
 ||navi40.com^
 ||navi42.ru^
-||navi44.com^
 ||navi45.ru^
-||navi48.com^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
@@ -122819,7 +122821,6 @@
 ||pay-per-search.com^
 ||pay.mobile.sina.cn^
 ||pay.truemoney.me^
-||pay.www.cdek.id19845672.info^
 ||pay4results24.eu^
 ||payae8moon9.com^
 ||paybackmodified.com^
@@ -157512,7 +157513,6 @@
 ||teslaev.d1v854kgghhsze.amplifyapp.com^
 ||teslafond.io^
 ||teslaicrypto.com^
-||teslaking.io^
 ||teslax.shop^
 ||tesler-trading.net^
 ||tesopportunites.fr^
@@ -171317,6 +171317,7 @@
 ||vinlens.com^
 ||vinosedermol.com^
 ||vins-bourgorne.fr^
+||vinsgcs.com^
 ||vinsight.de^
 ||vintagebox.pro^
 ||vintageperk.com^
@@ -181249,6 +181250,7 @@
 ||zjlbugpawe.com^
 ||zjliloveyou.ixiunv.com^
 ||zjo0tjqpm1.com^
+||zjplnz.xyz^
 ||zjptg.com^
 ||zjpwrpo.com^
 ||zjrbwb.markenschuhe.de^
