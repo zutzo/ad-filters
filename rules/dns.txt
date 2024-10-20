@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 185593
-! Update Time(UTC+8): 2024-10-20 00:11:52
+! Total count: 185616
+! Update Time(UTC+8): 2024-10-20 08:54:32
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
@@ -30603,6 +30603,7 @@
 ||animemeat.com^
 ||animeonline.net^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||animikii-ana.com^
 ||animits.com^
 ||animositybelovedresignation.com^
@@ -35627,6 +35628,7 @@
 ||awvtzezarm.com^
 ||awwagqorqpty.com^
 ||awwepz.evenstadmusikk.no^
+||awwnaqax.com^
 ||awwprjafmfjbvt.xyz^
 ||awxdazlufot.com^
 ||awxgfiqifawg.com^
@@ -45860,6 +45862,7 @@
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
 ||choacmax.xyz^
+||choafaidoonsoy.net^
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
@@ -64392,6 +64395,7 @@
 ||ebortbide.com^
 ||ebp.renren.com^
 ||ebpex.space^
+||ebqptawxdxrrdsu.xyz^
 ||ebrbrw.gulliver-wear.com^
 ||ebreid.garneroarredamenti.com^
 ||ebrokerpartner.pl^
@@ -65345,6 +65349,7 @@
 ||elfinsande.website^
 ||elfnxscnmtao.com^
 ||elfpetsic.com^
+||elgnnpl-ukgs.global^
 ||elgreco.openapp.link^
 ||elhdxexnra.xyz^
 ||elia.thermofisher.com^
@@ -65669,6 +65674,7 @@
 ||elrecognisefro.com^
 ||elrfqgvvljkvxg.com^
 ||elrhieujvi.com^
+||elrifeno.com^
 ||elrkovhhyfkor.com^
 ||elrpru.herbchamberslincoln.com^
 ||elrs-office.xyz^
@@ -71245,6 +71251,7 @@
 ||firmmaintenance.com^
 ||firnebmike.live^
 ||firrectly.top^
+||firrycandour.com^
 ||first-azure.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||first-pictures.net^
@@ -85151,6 +85158,7 @@
 ||iaindu.cn^
 ||iainsorong.ac.id^
 ||iaiqk.top^
+||iairuo.xyz^
 ||iam-agof-app.irquest.com^
 ||iam-rum-intake.datadoghq.com^
 ||iam.datasavannah.com^
@@ -88457,6 +88465,7 @@
 ||inheritedgravysuspected.com^
 ||inheritedunstable.com^
 ||inheritedwren.com^
+||inheritknow.com^
 ||inhonedgean.com^
 ||inhospitablebamboograduate.com^
 ||inhospitablededucefairness.com^
@@ -92638,6 +92647,7 @@
 ||jyuwkba.top^
 ||jyvith.xyz^
 ||jywczbx.com^
+||jyxzrb.xyz^
 ||jyyqzt.sledstore.se^
 ||jyyzvb.careerindex.jp^
 ||jyzkut.com^
@@ -94801,6 +94811,7 @@
 ||kvt5.blesscollectionhotels.com^
 ||kvtaaa.top^
 ||kvtgl4who.com^
+||kvum-bpelzw.icu^
 ||kvv.jxc.mybluehost.me^
 ||kvvadrat.net^
 ||kvymlsb.com^
@@ -95283,6 +95294,7 @@
 ||lakuhi.ru^
 ||lakusdvroa.com^
 ||lakvandula.com^
+||lalabaos1020.top^
 ||lalala.geenstijl.nl^
 ||lalaping.com^
 ||lalapush.com^
@@ -106724,6 +106736,7 @@
 ||mdp-usertrace-in.heytapmobile.com^
 ||mdp-usertrace-sg.heytapmobile.com^
 ||mdqhyxe.cn^
+||mdqikg.xyz^
 ||mdqpkdne.xyz^
 ||mdrecv.app.cntvwb.cn^
 ||mds-analytics.visualstudio.com^
@@ -109416,6 +109429,7 @@
 ||metrics.brave.software^
 ||metrics.bravesoftware.com^
 ||metrics.breadfinancial.com^
+||metrics.brevo.com^
 ||metrics.bridgestoneamericas.com^
 ||metrics.brightcove.com^
 ||metrics.brighthorizons.com^
@@ -116704,7 +116718,9 @@
 ||navi10.ru^
 ||navi100.com^
 ||navi12.com^
+||navi12.ru^
 ||navi18.com^
+||navi19.ru^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -116714,6 +116730,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi25.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -116929,6 +116946,7 @@
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
 ||ndthensome.com^
+||ndysxhs.icu^
 ||ndyzz.com^
 ||ndzksr.xyz^
 ||ndzoaaa.com^
@@ -123199,6 +123217,7 @@
 ||oupai.cc^
 ||oupaumul.net^
 ||ouphouch.com^
+||ouplc.icu^
 ||oupushee.com^
 ||oupusoma.net^
 ||ouqyid.com^
@@ -126977,6 +126996,7 @@
 ||pinjamuang.top^
 ||pinkberrytube.com^
 ||pinkbonanza.com^
+||pinklabel.com^
 ||pinklaura.shop^
 ||pinkleo.pro^
 ||pinkpig2le8tt09.com^
@@ -138889,6 +138909,7 @@
 ||rumendia.com^
 ||rumerog.com^
 ||rumexnothous.website^
+||rumkhprg.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
 ||rummletornese.com^
@@ -157032,6 +157053,7 @@
 ||sv.isvn.space^
 ||sv.map.baidu.com^
 ||sv2.biz^
+||sv2fo.icu^
 ||svanh-xqh.com^
 ||svaohpdxn.xyz^
 ||svarub.xyz^
@@ -167819,7 +167841,6 @@
 ||traffic.name^
 ||traffic.nvcms.net^
 ||traffic.okfn.de^
-||traffic.pinklabel.com^
 ||traffic.prod.cobaltgroup.com^
 ||traffic.ru^
 ||traffic.spot.im^
@@ -168332,7 +168353,6 @@
 ||trendsymbol.net^
 ||trendybite.store^
 ||trendyblogger.xyz^
-||trendybuddystore.com^
 ||trendyezone.com^
 ||trendytreasuresbydannyg.com^
 ||trendyzsales.com^
@@ -169678,6 +169698,7 @@
 ||tufzdj.xyz^
 ||tugngs.tui.com^
 ||tugonoyoi.com^
+||tugraughilr.xyz^
 ||tuhwjkesxo.com^
 ||tuhzjrr.cn^
 ||tui.gtimg.com^
@@ -170094,6 +170115,7 @@
 ||twoje-nagrody.pl^
 ||twojszczesliwydzien.com^
 ||twokidjay.com^
+||twoter.info^
 ||twovdf2vs.top^
 ||twovqti.com^
 ||twowife.com^
@@ -172703,6 +172725,7 @@
 ||uunwaq.lampenundleuchten.de^
 ||uuoizbtl.xyz^
 ||uuqoubtg.com^
+||uuresdt.top^
 ||uurhhtymipx.com^
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
@@ -174647,6 +174670,7 @@
 ||virtuousescape.pro^
 ||virtus-voice.com^
 ||virus-detection-portal.us^
+||virus-engine.sec.miui.com^
 ||virus-exe-server.us^
 ||virus-server-detection.us^
 ||virusai.lt^
@@ -178800,7 +178824,6 @@
 ||wnvieu.enpal.de^
 ||wnyywf.frankonia.de^
 ||wnzle.com^
-||wo.firrycandour.com^
 ||wo.tc^
 ||wo1990.com^
 ||wo685.com^
