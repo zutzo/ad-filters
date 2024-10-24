@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
 ! Total count: 184124
-! Update Time(UTC+8): 2024-10-24 16:14:07
+! Update Time(UTC+8): 2024-10-25 00:12:26
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
