@@ -1,0 +1,16 @@
+{
+  "name": "List name",
+  "description": "List description",
+  "homepage": "https://example.org/",
+  "license": "WTFPL",
+  "sources": [
+    {
+      "name": "Local rules",
+      "source": "dns.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress","TrimLines","Deduplicate","Validate","RemoveEmptyLines"],
+  "exclusions_sources": ["https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"]
+}
