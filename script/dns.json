@@ -1,0 +1,16 @@
+{
+  "name": "List name",
+  "description": "List description",
+  "homepage": "https://example.org/",
+  "license": "WTFPL",
+  "sources": [
+    {
+      "name": "Local rules",
+      "source": "dns.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress","TrimLines","Deduplicate","Validate","RemoveEmptyLines"],
+  "exclusions_sources": ["oisd.txt","https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt","https://raw.githubusercontent.com/Cats-Team/AdRules/refs/heads/script/script/allowlist.txt","https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/refs/heads/master/china-cdn-domain-whitelist.txt","https://raw.githubusercontent.com/zoonderkins/blahdns/refs/heads/master/hosts/whitelist.txt","https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackres.txt"]
+}
