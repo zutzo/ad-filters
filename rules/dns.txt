@@ -1,0 +1,3 @@
+! Title: Big Ad filter
+! Total count: 1
+! Update Time(UTC+8): 2025-12-25 22:41:57
