@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
 ! Total count: 151760
-! Update Time(UTC+8): 2026-01-29 03:53:22
+! Update Time(UTC+8): 2026-01-29 04:27:00
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
